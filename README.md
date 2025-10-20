@@ -8,16 +8,16 @@
 <br>
 - Actualmente: Estudiante de Grado Medio de Sistemas Microinformaticos y Redes (SMR).
 <br>
-- 🚩: Serracines, Madrid. 
+- Ubicacion🚩: Serracines, Madrid. 
 <br>
-- 
+- Mi Pagina web: 
 <HR>
 <n> ENGLISH</n>
 <hr>
 <br>
 <br>
-- Currently: Intermediate Student of Microcomputer Systems and Networks (SMR).
+- Currently: Medium Grade Student of Microcomputer Systems and Networks (SMR).
 <br>
-- 🚩: Serracines, Madrid. 
+- Location 🚩: Serracines, Madrid. 
 <br>
 - 
