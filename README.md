@@ -12,7 +12,7 @@
 <br>
 - Mi pagina Web: <A HREF= https://danilorenzo.vercel.app/ > Link </A>
 <HR>
-<n> ENGLISH</n>
+<H2><n> ENGLISH</n> </H2>
 <hr>
 <br>
 <br>
