@@ -10,7 +10,7 @@
 <br>
 - Ubicacion🚩: Serracines, Madrid. 
 <br>
-- Mi pagina web: <A HREF= https://danilorenzo.vercel.app/ > Link </A>
+- Mi pagina Web: <A HREF= https://danilorenzo.vercel.app/ > Link </A>
 <HR>
 <n> ENGLISH</n>
 <hr>
@@ -20,4 +20,4 @@
 <br>
 - Location 🚩: Serracines, Madrid. 
 <br>
-- 
+- Mi Web: <A HREF= https://danilorenzo.vercel.app/ > Link </A>
